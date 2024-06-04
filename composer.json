@@ -1,0 +1,7 @@
+{
+    "name": "petrokulybaba/prom-exel",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
